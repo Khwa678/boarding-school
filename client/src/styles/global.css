@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: sans-serif;
+  background: linear-gradient(to right, #f8fbff, #eef2ff);
+  overflow-x: hidden;
+}
+
+html {
+  scroll-behavior: smooth;
+}
