@@ -9,11 +9,16 @@ const schools = [
     rating: "4.9",
     fees: "₹8,00,000",
     image:
+
+
+
       "https://images.unsplash.com/photo-1580582932707-520aed937b7b?q=80&w=2070&auto=format&fit=crop",
     description:
       "One of India’s most prestigious boarding schools with excellent academics.",
   },
 
+
+  
   {
     id: "2",
     name: "Mayo College",
